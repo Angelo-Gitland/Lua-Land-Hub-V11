@@ -520,7 +520,7 @@ Sections.Credits:AddParagraph({
     Title = "Credits",
     Content = "Script Made By: LLH Lua Land\nScript Director: Eric_3337\nScript Testers: BaconDaGoofyCreator"
 })
-addClipboard("Credits", "Join Lua Land Hub", "https://discord.gg/G6Te5p2NeC")
+addClipboard("Credits", "Join Lua Land Hub", "https://discord.gg/lualandhub")
 addClipboard("Credits", "Join Eric_3337", "https://discord.gg/TPwmVMXJHN")
 addClipboard("Credits", "Join BaconDaGoofyCreator", "https://discord.gg/Q8vUUhgw8A")
 
