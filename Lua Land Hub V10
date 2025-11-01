@@ -22,7 +22,6 @@ local Tabs = {
     Universal = Window:AddTab({ Title = "Universal Scripts", Icon = "globe" }),
     Admin = Window:AddTab({ Title = "Admin Scripts", Icon = "shield" }),
     Hub = Window:AddTab({ Title = "Script Hub", Icon = "code" }),
-    Creations = Window:AddTab({ Title = "Creations", Icon = "sparkles" }),
     Scanner = Window:AddTab({ Title = "Backdoor Scanner", Icon = "search" }),
     Credits = Window:AddTab({ Title = "Credits", Icon = "info" }),
     Settings = Window:AddTab({ Title = "Settings", Icon = "settings" }),
