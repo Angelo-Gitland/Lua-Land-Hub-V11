@@ -5,8 +5,8 @@ local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/d
 local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/InterfaceManager.lua"))()
 
 local Window = Fluent:CreateWindow({
-    Title = "Lua Land Hub V10 [🍭HAPPY HALLOWEEN!🍭]",
-    SubTitle = "BY: LLH LUA LAND",
+    Title = "Lua Land Hub V10 [🎆Happy New Year🎆]",
+    SubTitle = "Developed By: LLH LUA LAND",
     TabWidth = 160,
     Size = UDim2.fromOffset(580, 460),
     Acrylic = true,
@@ -221,6 +221,11 @@ addScript("Games", "Untitled Fling Game", "https://raw.githubusercontent.com/abr
 addScript("Games", "Hit the Thrift", "https://raw.githubusercontent.com/ProXSC/ProX/main/ProXHUB")
 addScript("Games", "Build a Rocket Ship", "https://raw.githubusercontent.com/Matej1912/Build-a-Rocket-Ship/refs/heads/main/Script")
 addScript("Games", "Bomb to Mine", "https://raw.githubusercontent.com/gumanba/Scripts/main/BombtoMine")
+addScript("Games", "Blush Canyon 3.0 For Obby King", "https://raw.githubusercontent.com/Angelo-Gitland/Blush-Canyon-3.0-Lua-Land-Hub-Script/refs/heads/main/Blush%20Canyon%203.0%20LuaLand%2096side%20Script")
+addScript("Games", "Meet Sammy Tower", "https://raw.githubusercontent.com/Angelo-Gitland/Meet-Sammy-Tower-Lua-Land-Hub-Script/refs/heads/main/MST95SideLuaLandHubScript")
+addScript("Games", "Slap Tower X", "https://raw.githubusercontent.com/Angelo-Gitland/Slap-Tower-X-Lua-Land-Hub-STX94side/refs/heads/main/Slap%20Tower%20X%20LuaLandHubSide94")
+addScript("Games", "Mini City Tycoon", "https://raw.githubusercontent.com/NamNom00/LoL-Scripts/refs/heads/main/mini-city-tycoon")
+addScript("Games", "My Brainrot Egg Farm", "https://raw.githubusercontent.com/Chavels123/Loader/refs/heads/main/loader.lua")
 
 addScript("Universal", "SSTICKDUD GUI", "https://gist.githubusercontent.com/Angelo-Gitland/61301a7d73b79da32642cf9ef93b2437/raw/3dd135b6921c0b5cb91c04c624e193f7de8f7dfe/SSTICKDUD%2520GUI")
 addScript("Universal", "R3 GUI", "https://raw.githubusercontent.com/R3LIST/r3gui/main/main.lua")
