@@ -1,12 +1,10 @@
--- Happy Halloween! 🎃
-
 local Fluent = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))()
 local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/SaveManager.lua"))()
 local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/InterfaceManager.lua"))()
 
 local Window = Fluent:CreateWindow({
-    Title = "Lua Land Hub V10 [🎆Happy New Year🎆]",
-    SubTitle = "Developed By: LLH LUA LAND",
+    Title = "Lua Land Hub V11",
+    SubTitle = "Developed By: LLH Lua Land",
     TabWidth = 160,
     Size = UDim2.fromOffset(580, 460),
     Acrylic = true,
@@ -175,6 +173,8 @@ addScript("Games", "AllBlox Battles", "https://raw.githubusercontent.com/OhhMyGe
 addScript("Games", "Anime Punching Simulator", "https://raw.githubusercontent.com/OhhMyGehlee/89/main/24")
 addScript("Games", "+1 Blade Slayers", "https://raw.githubusercontent.com/OhhMyGehlee/dsaw2/main/asdwa")
 addScript("Games", "Anime Speed Race", "https://raw.githubusercontent.com/OhhMyGehlee/09op/main/kop2")
+addScript("Games", "Sword Fight On The Height IV:Reforged", "https://raw.githubusercontent.com/Angelo-Gitland/Sword-Fight-on-the-height-Lua-Land-Hub/refs/heads/main/SFOTH%2098side%20Lua%20Land%20Script")
+addScript("Games", "Trolls cannot break this tower 4", "https://raw.githubusercontent.com/Angelo-Gitland/trolls-cannot-break-this-tower-4-Lua-land/refs/heads/main/TCBTT4%20Lua%20Land%2097side%20Script")
 addScript("Games", "Egg Empire", "https://raw.githubusercontent.com/OhhMyGehlee/yup/main/pire")
 addScript("Games", "Reborn As Swords Man", "https://raw.githubusercontent.com/OhhMyGehlee/sdaw/main/sdsa")
 addScript("Games", "Fruit Seas", "https://raw.githubusercontent.com/OhhMyGehlee/dsaw/main/asdwa")
@@ -273,6 +273,7 @@ addScript("Universal", "Green Bean Remover", "https://raw.githubusercontent.com/
 addScript("Universal", "T0s Breaker Gui [Private]", "https://pastebin.com/raw/VEWHfWyn")
 addScript("Universal", "Project Tridony", "https://pastefy.app/fGCfZQup/raw")
 addScript("Universal", "G00byd0lan Gui Simple", "https://rawscripts.net/raw/Universal-Script-G00byd0lan-simple-gui-10360")
+addScript("Universal", "Untitled Notepad", "https://gist.githubusercontent.com/Angelo-Gitland/99e5df18579e61c192f18aa74fda3a46/raw/e09d044ab1a7d99c00b1af4c94300ca53aa7894d/Untitled%20Notepad%20PC%20Script%20By%20LLH%20Lua%20Land")
 addScript("Universal", "Project Ligma", "https://rawscripts.net/raw/Universal-Script-Project-Ligma-28816")
 addScript("Universal", "Mario Exe", "https://rawscripts.net/raw/Universal-Script-Mario-exe-premium-9389")
 addScript("Universal", "Rc7", "https://raw.githubusercontent.com/CoreGui/Scripts/main/RC7")
@@ -360,7 +361,26 @@ addScript("Universal", "MOGExecutor", "https://pastebin.com/raw/sEK3Ys1w")
 addScript("Universal", "Go0bysworld f3x v2", "https://rawscripts.net/raw/Universal-Script-go0bysworld-f3x-v2-57826")
 addScript("Universal", "YouTube In Roblox", "https://rawscripts.net/raw/Universal-Script-Youtube-in-Roblox-57836")
 addScript("Universal", "PFFF3X GUI", "https://rawscripts.net/raw/Universal-Script-PFFF3XGUI-57834")
+addScript("Universal", "F4x Editor", "https://raw.githubusercontent.com/botsnew354/scriptv1/REPO/script.lua")
+addScript("Universal", "Mobile Keyboard", "https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt")
+addScript("Universal", "Delta Keyboard", "https://raw.githubusercontent.com/Xxtan31/Ata/main/deltakeyboardcrack.txt")
 addScript("Universal", "c00lkidd Universal Gui By team c00lkidd [FE]", "https://pastebin.com/raw/YtX6zaFJ")
+addScript("Universal", "Ncords Viewer", "https://nescoroco.lat/NcordsV1.txt")
+addScript("Universal", "5x5x5x50S Executor", "https://pastebin.com/raw/X4kmF3YV")
+addScript("Universal", "Scream Executor", ",https://pastebin.com/raw/sRF0SbHb")
+addScript("Universal", "Tuboos93 Gui", "https://rawscripts.net/raw/Client-Replication-tuboos93-gui-v3-reupload-31996")
+addScript("Universal", "Witherstorm", "https://raw.githubusercontent.com/ian49972/SCRIPTS/refs/heads/main/Wither")
+addScript("Universal", "Stalker Mode", "https://pastebin.com/raw/kDA875bF")
+addScript("Universal", "Ai Script Generator", "https://raw.githubusercontent.com/mreggg62-a11y/yesyesyess/refs/heads/main/--%5B%5B%20v1.0.0%20httpswearedevs.netobfus.txt")
+addScript("Universal", "China Script Center", "https://raw.githubusercontent.com/xiaopi77/xiaopi77/main/QQ1002100032-Roblox-Pi-script.lua")
+addScript("Universal", "Translator", "https://pastebin.com/raw/dHAK13sf")
+addScript("Universal", "Driving in my car", "https://pastebin.com/raw/WFPEDrHy")
+addScript("Universal", "Chat Admin", "https://pastefy.app/H6k8QmIp/raw")
+addScript("Universal", "All seeing hand", "https://raw.githubusercontent.com/FryzerHub/Biggestscript/refs/heads/main/SilentSpy")
+addScript("Universal", "Phonk edit", "https://raw.githubusercontent.com/9s2dyhcgwm-svg/Troll-phonk-meme/refs/heads/main/The%20Script")
+addScript("Universal", "Server position predictor", "https://rawscripts.net/raw/Universal-Script-server-position-predictor-70605")
+addScript("Universal", "Op Finality", "https://rawscripts.net/raw/OpFinality_590")
+addScript("Universal", "Energized Animations", "https://rawscripts.net/raw/Universal-Script-Energize-10408")
 
 addScript("Admin", "Infinite Yield", "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source")
 addScript("Admin", "Kohls Admin", "https://raw.githubusercontent.com/Stefanuk12/ROBLOX/master/Games/Kohls%20Admin%20House/DarkKohls/GUI.lua")
@@ -519,6 +539,18 @@ addScript("Scanner", "Jalon's Backdoor Scanner", "https://raw.githubusercontent.
 addScript("Scanner", "Skibidi Hawk", "https://skibidihawkexecutor.fwh.is/scripts%20;D/skibidihawkexecutor-latest")
 addScript("Scanner", "Lua Land Hub Scanner [BY LLH Lua Land]", "https://raw.githubusercontent.com/Angelo-Gitland/LuaLandBackdoorExecutor/refs/heads/main/Lua%20Land%20Executor%20Backdoor")
 addScript("Scanner", "Backdoor Legacy Scanner", "https://protected-roblox-scripts.onrender.com/e199278d9c668d20a456f327c7045641")
+addScript("Scanner", "Rex Backdoor Scanner", "https://pastebin.com/raw/9DBUKjvx")
+addScript("Scanner", "Soul Backdoor Scanner", "https://pastebin.com/raw/adceDwMv")
+addScript("Scanner", "Backdoor.Exe V6", "https://pastebin.com/5WqKMe3G")
+addScript("Scanner", "Backdoor.Exe V7", "https://rawscripts.net/raw/Universal-Script-Backdoor-V7X-31528")
+addScript("Scanner", "Smile Backdoor Scanner", "https://pastebin.com/raw/aUR8NbYH")
+addScript("Scanner", "TNTMaster Backdoor Scanner", "https://pastebin.com/raw/hi4mDR43")
+addScript("Scanner", "Mulpan Backdoor", "https://scriptblox.com/script/mulpan-Backdoor-mulpan-hub-Backdoor-42708")
+addScript("Scanner", "Project Figma Backdoor Scanner", "https://rawscripts.net/raw/Universal-Script-Figma-backdoor-39166")
+addScript("Scanner", "Dev Backdoor Scanner", "https://raw.githubusercontent.com/arfavirendra1230-droid/Scripts/refs/heads/main/DEV-Backdoor")
+addScript("Scanner", "Syntex Backdoor Scanner", "https://bitbucket.org/projects_early26/new/raw/61fd49b31b84dd26f43e6fed5abe4dfb78a6c4cc/v1.2.4.lua")
+addScript("Scanner", "Moon Backdoor Scanner", "https://raw.githubusercontent.com/G4mg1/MoonBackdoor/refs/heads/main/README.md")
+addScript("Scanner", "Luaclipse Backdoor Scanner", "https://luaclipse.netlify.app/")
 
 Sections.Credits:AddParagraph({
     Title = "Credits",
