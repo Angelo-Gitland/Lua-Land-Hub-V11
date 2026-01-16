@@ -5,8 +5,8 @@ local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.
 local Window = Fluent:CreateWindow({
     Title = "Lua Land Hub V11",
     SubTitle = "Developed By: LLH Lua Land",
-    TabWidth = 120,
-    Size = UDim2.fromOffset(320, 360),
+    TabWidth = 160,
+    Size = UDim2.fromOffset(580, 460),
     Acrylic = true,
     Theme = "Dark",
     MinimizeKey = Enum.KeyCode.LeftControl,
@@ -20,7 +20,7 @@ local Tabs = {
     Universal = Window:AddTab({ Title = "Universal Scripts", Icon = "globe" }),
     Admin = Window:AddTab({ Title = "Admin Scripts", Icon = "shield" }),
     Hub = Window:AddTab({ Title = "Script Hub", Icon = "code" }),
-    Scanner = Window:AddTab({ Title = "Backdoor Scanner", Icon = "search" }),
+    Scanner = Window:AddTab({ Title = "Scanner", Icon = "search" }),
     Credits = Window:AddTab({ Title = "Credits", Icon = "info" }),
     Settings = Window:AddTab({ Title = "Settings", Icon = "settings" }),
 }
