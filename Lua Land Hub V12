@@ -3,7 +3,7 @@ local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/d
 local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/InterfaceManager.lua"))()
 
 local Window = Fluent:CreateWindow({
-    Title = "Lua Land Hub V11",
+    Title = "Lua Land Hub V12",
     SubTitle = "Developed By: LLH Lua Land",
     TabWidth = 160,
     Size = UDim2.fromOffset(580, 460),
@@ -404,6 +404,9 @@ addScript("Admin", "Deem Admin [BETA]", "https://raw.githubusercontent.com/neatd
 addScript("Admin", "Catalog Heaven Admin", "https://pastebin.com/raw/ftdLpbCg")
 addScript("Admin", "Op Admin Private", "https://raw.githubusercontent.com/addihallstar/opadminsupreme/refs/heads/main/opadmin_new.lua")
 addScript("Admin", "Lxte Cmds", "https://raw.githubusercontent.com/lxte/cmd/main/testing-main.lua")
+addScript("Admin", "Paranoia Admin", "https://raw.githubusercontent.com/addihallstar/opadminsupreme/refs/heads/main/opadmin_new.lua")
+addScript("Admin", "VoidBound Admin", "https://pastebin.com/raw/XfVWcYEs")
+addScript("Admin", "Strawberry Cmds", "https://strawberrycmd.netlify.app")
 
 addScript("Hub", "Ghost Hub", "https://raw.githubusercontent.com/GhostPlayer352/Test4/main/GhostHub")
 addScript("Hub", "VirusPirusDirus Hub", "https://raw.githubusercontent.com/InnocentViru/VirusPirusDirus-Script-Hub/refs/heads/main/VirusPirusDirus%20Script%20Hub")
@@ -537,7 +540,7 @@ addScript("Scanner", "Rosys Backdoor Scanner", "https://pastebin.com/raw/dptQMT9
 addScript("Scanner", "Backdoor Scanner SS", "https://protected-roblox-scripts.onrender.com/e199278d9c668d20a456f327c7045641")
 addScript("Scanner", "Jalon's Backdoor Scanner", "https://raw.githubusercontent.com/jLn0n/scripts/main/backdoor-executor/backdoor-executor.lua")
 addScript("Scanner", "Skibidi Hawk", "https://skibidihawkexecutor.fwh.is/scripts%20;D/skibidihawkexecutor-latest")
-addScript("Scanner", "Lua Land Hub Scanner [BY LLH Lua Land]", "https://raw.githubusercontent.com/Angelo-Gitland/LuaLandBackdoorExecutor/refs/heads/main/Lua%20Land%20Executor%20Backdoor")
+addScript("Scanner", "Lua Land Backdoor Executor [BY LLH Lua Land]", "https://raw.githubusercontent.com/Angelo-Gitland/LuaLandBackdoorExecutor/refs/heads/main/Lua%20Land%20Executor%20Backdoor")
 addScript("Scanner", "Backdoor Legacy Scanner", "https://protected-roblox-scripts.onrender.com/e199278d9c668d20a456f327c7045641")
 addScript("Scanner", "Rex Backdoor Scanner", "https://pastebin.com/raw/9DBUKjvx")
 addScript("Scanner", "Soul Backdoor Scanner", "https://pastebin.com/raw/adceDwMv")
@@ -554,11 +557,11 @@ addScript("Scanner", "Luaclipse Backdoor Scanner", "https://luaclipse.netlify.ap
 
 Sections.Credits:AddParagraph({
     Title = "Credits",
-    Content = "Script Made By: LLH Lua Land\nScript Director: Eric_3337\nScript Testers: BaconDaGoofyCreator"
+    Content = "Script Made By: LLH Lua Land\nScript Tester: Eric_3337"
 })
-addClipboard("Credits", "Join Lua Land Hub", "https://discord.gg/lualandhub")
-addClipboard("Credits", "Join Eric_3337", "https://discord.gg/TPwmVMXJHN")
-addClipboard("Credits", "Join BaconDaGoofyCreator", "https://discord.gg/Q8vUUhgw8A")
+addClipboard("Credits", "Join Lua Land Hub", "https://discord.gg/2Y9AZRE2xu")
+addClipboard("Credits", "Join Eric_3337", "https://discord.gg/CCMBu7cDc6")
+addClipboard("Credits", "Join BaconDaGoofyCreator", "https://discord.gg/j95skWavNu")
 
 SaveManager:SetLibrary(Fluent)
 InterfaceManager:SetLibrary(Fluent)
